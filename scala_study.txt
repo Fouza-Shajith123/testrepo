@@ -1,0 +1,7 @@
+Unable to create Scala class on IntelliJ
+
+Right click on your project, "Add Framework support" and choose Scala framework, then by right click on the packages you can create Scala Class
+
+2. cannot resolve symbol scala
+
+ invalidating cache (File->Invalidate Caches/Restart->Invalidate and Restart).
